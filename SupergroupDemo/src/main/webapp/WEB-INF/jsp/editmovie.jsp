@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <html>
-<link href="static/bootstrap.min.css" rel="stylesheet">
+<link href="static/css/bootstrap.min.css" rel="stylesheet">
 
 </head>
 <body>
@@ -27,8 +27,8 @@
 		</form>
 	</div>
 
-	<script src="static/jquery-2.2.1.min.js"></script>
-	<script src="static/bootstrap.min.js"></script>
+	<script src="static/js/jquery-2.2.1.min.js"></script>
+	<script src="static/js/bootstrap.min.js"></script>
 
 </body>
 
